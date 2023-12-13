@@ -1,0 +1,2 @@
+# TwinCAT_TcJoyXPlanar
+TcJoyを使ってXBOXコントローラーでXPlanarを動作する
