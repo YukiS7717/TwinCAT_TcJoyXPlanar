@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.12">
+  <GVL Name="GVL" Id="{f2dcfcae-ea75-4cbf-91d0-dac213660723}">
+    <Declaration><![CDATA[//{attribute 'qualified_only'}
+VAR_GLOBAL
+	g_fbTcJoy						: FB_TcJoy;
+	g_lrDeadZone					: LREAL := 10000;	
+END_VAR
+
+VAR_GLOBAL CONSTANT
+	gc_lrMax_Stick					: LREAL := 32767; 
+	gc_lrMax_L2R2					: LREAL := 255;
+	gc_alrLowCondition_Pos			: ARRAY [0..3] OF LREAL := [100, 1000, 1000, 10000];
+	gc_alrHighCondition_Pos			: ARRAY [0..3] OF LREAL := [500, 5000, 5000, 50000];
+	gc_alrLowCondition_Angle		: ARRAY [0..3] OF LREAL := [100, 1000, 1000, 10000];
+END_VAR]]></Declaration>
+  </GVL>
+</TcPlcObject>

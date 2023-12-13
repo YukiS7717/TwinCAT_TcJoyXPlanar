@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.12">
+  <DUT Name="Command" Id="{accdd355-220c-4f50-aea7-556ebede7c57}">
+    <Declaration><![CDATA[{attribute 'qualified_only'}
+{attribute 'strict'}
+TYPE Command :
+(
+	None := 0
+	,Pad	 		:= 1
+	,RightStick		:= 2
+	,LeftStick		:= 3
+	,A				:= 4
+	,B				:= 5
+	,X				:= 6
+	,Y				:= 7
+	,L1				:= 8
+	,R1				:= 9
+	,L2				:= 10
+	,R2				:= 11
+	,Start			:= 12
+	,Back			:= 13
+);
+END_TYPE
+]]></Declaration>
+  </DUT>
+</TcPlcObject>

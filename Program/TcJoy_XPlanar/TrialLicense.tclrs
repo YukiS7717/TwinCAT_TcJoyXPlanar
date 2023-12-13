@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<TcLicenseInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.beckhoff.com/schemas/2011/11/TcLicenseInfo">
+	<LicenseInfo>
+		<SystemId>{DBA6942F-13C2-22DD-814D-A5EF22F5BEC4}</SystemId>
+		<IssueTime>2023-12-12T03:20:00</IssueTime>
+		<ExpireTime>2023-12-20T00:00:00</ExpireTime>
+		<LicenseKey>112f9ecf147c85f2b4cedd54b98a7f9dc1140121c400ee49e2b993f2ba1a2cdcd86e6611c940ee462ddc709a62cbc32f620ecffb1f7b6b60a5a2e4d0a2ec3de5f56e17169006b40bac6536336da3176dfeb9f82b709060804c1f323ae0eba29fc3edf77a7ce4b7144cfe181b0f2524f6f3a3627a3eec8060f1f2651010ece3ee7e613a37700498020edde3adc60689914742d5e5c182ffcd0c70a3925a39396d7975779b55e4b5a87719a8e6197ea7d53a76614325daabf9cf7fec3001e172702bfb7e201bbc72852eebf4a0cf43e4601574fd91f834a4b27d184b365cb30650cd6c3dc7bae2a4359fdb04a6e70f0fed80ac0cd15897f8b365cb8910cc2d23a0</LicenseKey>
+		<License>
+			<LicenseId>{4C256767-E6E6-4AF5-BD68-9F7ABAD0C200}</LicenseId>
+			<Name>TC3 ADS</Name>
+			<OrderNo>TC1000</OrderNo>
+		</License>
+		<License>
+			<LicenseId>{3FF18E97-7754-401B-93FB-70544DE28A13}</LicenseId>
+			<Name>TC3 IO</Name>
+			<OrderNo>TC1100</OrderNo>
+		</License>
+		<License>
+			<LicenseId>{66689887-CCBD-452C-AC9A-039D997C6E66}</LicenseId>
+			<Name>TC3 PLC</Name>
+			<OrderNo>TC1200</OrderNo>
+		</License>
+		<License>
+			<LicenseId>{A19036CF-A53B-4E3A-99FF-023EF5C4798B}</LicenseId>
+			<Name>TC3 NC PTP Axis</Name>
+		</License>
+		<License>
+			<LicenseId>{520DE751-9DB6-47CB-8240-BD5C466E7E64}</LicenseId>
+			<Name>TC3 NC PTP</Name>
+			<OrderNo>TF5000</OrderNo>
+		</License>
+		<License>
+			<LicenseId>{57BD9670-089D-434A-85CF-90A857EE0EFF}</LicenseId>
+			<Name>TC3 NC PTP Axes Pack unlimited</Name>
+			<OrderNo>TF5020</OrderNo>
+		</License>
+		<License>
+			<LicenseId>{C7C2EEE2-23C9-47B9-82D4-0ADF5D82C0A0}</LicenseId>
+			<Name>TC3 Motion Collision Avoidance</Name>
+			<OrderNo>TF5410</OrderNo>
+		</License>
+		<License>
+			<LicenseId>{C2F58FAE-EB3E-4252-A3D4-E912569E6EFC}</LicenseId>
+			<Name>TC3 Planar Motion Base</Name>
+			<OrderNo>TF5430</OrderNo>
+		</License>
+		<License>
+			<LicenseId>{C13CAEC7-1F41-4491-935E-FF6254005C74}</LicenseId>
+			<Name>TC3 Physics Base</Name>
+			<OrderNo>TF5440</OrderNo>
+		</License>
+		<License>
+			<LicenseId>{C362DA3A-1771-4019-9AF9-F39972E4A76D}</LicenseId>
+			<Name>TC3 XPlanar Technology</Name>
+			<OrderNo>TF5890</OrderNo>
+		</License>
+	</LicenseInfo>
+</TcLicenseInfo>
